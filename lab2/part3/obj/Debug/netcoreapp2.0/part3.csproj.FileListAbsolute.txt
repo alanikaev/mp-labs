@@ -1,0 +1,10 @@
+/home/alan/labs/mp/lab2/part3/bin/Debug/netcoreapp2.0/part3.deps.json
+/home/alan/labs/mp/lab2/part3/bin/Debug/netcoreapp2.0/part3.runtimeconfig.json
+/home/alan/labs/mp/lab2/part3/bin/Debug/netcoreapp2.0/part3.runtimeconfig.dev.json
+/home/alan/labs/mp/lab2/part3/bin/Debug/netcoreapp2.0/part3.dll
+/home/alan/labs/mp/lab2/part3/bin/Debug/netcoreapp2.0/part3.pdb
+/home/alan/labs/mp/lab2/part3/obj/Debug/netcoreapp2.0/part3.csproj.CoreCompileInputs.cache
+/home/alan/labs/mp/lab2/part3/obj/Debug/netcoreapp2.0/part3.AssemblyInfoInputs.cache
+/home/alan/labs/mp/lab2/part3/obj/Debug/netcoreapp2.0/part3.AssemblyInfo.cs
+/home/alan/labs/mp/lab2/part3/obj/Debug/netcoreapp2.0/part3.dll
+/home/alan/labs/mp/lab2/part3/obj/Debug/netcoreapp2.0/part3.pdb
